@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "nhockizi\\mudules\\": ""
+            "nhockizi\\modules\\": ""
         }
     },
     "require": {

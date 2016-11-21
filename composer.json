@@ -1,0 +1,22 @@
+{
+    "name": "nhockizi/yii2-modules",
+    "description": "Yii2 Modules",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","widget","modules","multimodules","sample"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Nhoc Kizi",
+            "email": "nhockizi.m@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "nhockizi\\mudules\\": ""
+        }
+    },
+    "require": {
+        "yiisoft/yii2": "*",
+        "phpspec/php-diff": ">=1.0.2"
+    }
+}
